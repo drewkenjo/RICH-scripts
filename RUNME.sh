@@ -1,4 +1,4 @@
-#las!/bin/bash
+#!/bin/bash
 
 ###########
 #  USER   #
